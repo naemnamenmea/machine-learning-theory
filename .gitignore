@@ -1,14 +1,12 @@
-.ipynb_checkpoints/
+# .ipynb_checkpoints/
 .vscode/
 *.tar.gz
 *.zip
 indexdir/
-other/
-todo.txt
 # *tmp*
 # *undone*
 
-venv/
+# venv/
 __pycache__/
 
 # Created by https://www.gitignore.io/api/intellij

@@ -1,0 +1,37 @@
+C:\Users\user\Anaconda3\envs\machine-learning-theory\python.exe
+C:\Users\user\AppData\Local\Programs\Python\Python37-32
+pip --proxy http://77.244.27.109:47554 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl
+
+https://vk.com/doc16001054_488824608?hash=4a28008031e6d81666&dl=b1df2960d65fdea6d2
+https://vk.com/doc16001054_488824606?hash=98ec91960e4bb1ee64&dl=7530c54949f01bacb7
+https://xgboost.readthedocs.io/en/latest/tutorials/index.html
+https://keras.io/layers/convolutional/
+
+---------------------------------------------------------------------------------------------------------
+
+- [ ] [Convolutional neural network (CNN)]()
+https://towardsdatascience.com/build-your-own-convolution-neural-network-in-5-mins-4217c2cf964f
+https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5
+https://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+https://www.kaggle.com/moghazy/guide-to-cnns-with-data-augmentation-keras
+
+https://medium.com/datadriveninvestor/building-powerful-image-classification-convolutional-neural-network-using-keras-a1839d0ff298
+https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf
+https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+https://www.learnopencv.com/image-classification-using-convolutional-neural-networks-in-keras/
+
+- [Genetic algorithm]()
+* https://www.kaggle.com/bdmj12/basic-genetic-algorithm/notebook // наша цель получить хотя бы одного индивида, представляющего собой вектор из единиц
+* https://www.kaggle.com/yfyangd/genetic-algorithm-approach
+* https://www.kaggle.com/nayan082/genetic-algorithm
+* http://dkopczyk.quantee.co.uk/genetic-algorithm/ // цель отобрать признаки у выборки бостона, чтобы CV MSE 
+улучшало оценку, которая получается при использовании всех 13 свойств
+* https://www.kaggle.com/ghalebdweikat/genetic-algorithm-tutorial // поместить как можно плотнее MP3 на диск (задача о рюкзаке, только без ценности MP3 (!не факт))
+* https://www.kaggle.com/aalchemist/genetic-algorithm-by-ptop
+---------------------------------------------------------------------------------------------------------
+
+# сравнить CCV с остальными результатами.
+# показать преимущество работы Bootstrap на маленьких выборках в отличие от остальных алгоритмов разбиения
+
+1. как установить пакеты в venv
+3. как создать файл с требованиями по пакетам?
