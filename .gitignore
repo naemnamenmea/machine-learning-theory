@@ -1,8 +1,8 @@
 # .ipynb_checkpoints/
 .vscode/
-*.tar.gz
-*.zip
-indexdir/
+# *.tar.gz
+# *.zip
+# indexdir/
 # *tmp*
 # *undone*
 
